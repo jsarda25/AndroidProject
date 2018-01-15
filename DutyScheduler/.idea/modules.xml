@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DutyScheduler.iml" filepath="$PROJECT_DIR$/DutyScheduler.iml" />
+      <module fileurl="file://C:\Users\Javier\Desktop\DutyScheduler\DutyScheduler\DutySchedulerApp.iml" filepath="C:\Users\Javier\Desktop\DutyScheduler\DutyScheduler\DutySchedulerApp.iml" />
+      <module fileurl="file://C:\Users\Javier\Desktop\DutyScheduler\DutyScheduler\app\app.iml" filepath="C:\Users\Javier\Desktop\DutyScheduler\DutyScheduler\app\app.iml" />
+    </modules>
+  </component>
+</project>
